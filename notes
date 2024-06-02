@@ -1,0 +1,8 @@
+To Run API Tests
+>> npx playwright test --config=api.config.ts
+
+To Run E2E Tests
+>> npx playwright test --config=e2e.config.ts
+
+To Run All Tests
+>> $ npx playwright test 

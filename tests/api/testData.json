@@ -1,0 +1,7 @@
+{
+  "apiUrl": "https://reqres.in/api",
+  "endpoints": {
+    "getUser": "/users/2"
+  },
+  "expectedStatusCode": 200
+}
